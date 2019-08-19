@@ -1,5 +1,4 @@
-# Name:				Andrew Udodov
-# Student Number:	10472552
+# Name:				Andrew
 # Date:				21/08/2018
 
 # This file is provided to you as a starting point for the "word_game.py" program of Assignment 1

@@ -1,5 +1,4 @@
-# Name: 			Andrew Udodov
-# Student Number:  	10472552
+# Name: 			Andrew
 # Date:				21/08/2018
 
 from distutils.util import strtobool
